@@ -11,7 +11,7 @@
 
 - Frontend Software Developer
 - Web Designer
-- Coding since 2020
+- Coding since 2016
 
 <br>
 
