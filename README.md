@@ -2,7 +2,7 @@
 
 💼 Work @ [**HK Byte**](https://hkbyte.com/)<br>
 🏠 Jamnagar, Gujarat, India<br>
-📧 Email: [iamsavannagariya@gmail.com](mailto:iamsavannagariya@gmail.com)<br>
+📧 Email: [savan.nagariya@gmail.com](mailto:savan.nagariya@gmail.com)<br>
 <!-- 🌐 Website: [savannagariya.com](https://savannagariya.com)<br> -->
 
 <br>
