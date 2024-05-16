@@ -1,6 +1,6 @@
 ## **Savan Nagariya**
 
-💼 Work @ [**HK Byte**](https://hkbyte.com/)<br>
+<!---💼 Work @ [**HK Byte**](https://hkbyte.com/)<br> -->
 🏠 Jamnagar, Gujarat, India<br>
 📧 Email: [savan.nagariya@gmail.com](mailto:savan.nagariya@gmail.com)<br>
 <!-- 🌐 Website: [savannagariya.com](https://savannagariya.com)<br> -->
