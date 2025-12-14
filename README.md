@@ -9,9 +9,9 @@
 
 **About:**
 
-- Frontend Software Developer
+- Frontend Engineer
 - Web Designer
-- Coding since 2016
+- Coding since 2019
 
 <br>
 
