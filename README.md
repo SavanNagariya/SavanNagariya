@@ -1,7 +1,7 @@
 ## **Savan Nagariya**
 
 <!---💼 Work @ [**HK Byte**](https://hkbyte.com/)<br> -->
-🏠 Jamnagar, Gujarat, India<br>
+🏠 Ahmedabad, Gujarat, India<br>
 📧 Email: [savan.nagariya@gmail.com](mailto:savan.nagariya@gmail.com)<br>
 <!-- 🌐 Website: [savannagariya.com](https://savannagariya.com)<br> -->
 
@@ -9,9 +9,8 @@
 
 **About:**
 
-- Frontend Engineer
-- Web Designer
-- Coding since 2019
+- Frontend Developer
+- Coding since 2020
 
 <br>
 
@@ -19,10 +18,10 @@
 
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React &nbsp;&nbsp;
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript &nbsp;&nbsp;
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue &nbsp;&nbsp;
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJS &nbsp;&nbsp;
-<img height="15" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> MongoDB &nbsp;&nbsp;
-<img height="15" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> MySQL &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"> NextJS &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg"> Redux &nbsp;&nbsp;
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript &nbsp;&nbsp;
+
 
 **Css Framework:**<br>
 
@@ -32,6 +31,4 @@
 
 **Exploring:**<br>
 
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript &nbsp;&nbsp;
-
-<!-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"> PostgreSQL &nbsp;&nbsp; -->
+<img height="15" src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"> React Native &nbsp;&nbsp;
